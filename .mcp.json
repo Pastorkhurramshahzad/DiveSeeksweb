@@ -6,6 +6,10 @@
         "shadcn@latest",
         "mcp"
       ]
+    },
+    "context7": {
+      "url": "https://context7.com/pastorkhurramshahzad/diveseeksweb",
+      "public_key": "pk_sykNy6DJVVZZuc678sxT7"
     }
   }
 }
