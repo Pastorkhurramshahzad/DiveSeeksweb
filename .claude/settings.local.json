@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null root@75.127.15.187 \"ls -la /var/www/ 2>/dev/null || echo ''No /var/www directory''\")"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
